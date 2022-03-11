@@ -1,0 +1,1 @@
+# share2nightscout-bridge
